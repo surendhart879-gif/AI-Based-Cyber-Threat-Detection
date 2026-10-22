@@ -1,0 +1,27 @@
+{
+  "model_type": "RandomForestClassifier",
+  "n_estimators": 200,
+  "accuracy": 0.9987,
+  "test_accuracy": 0.9987,
+  "samples": 2264594,
+  "features": 78,
+  "num_features": 78,
+  "classes": [
+    "BENIGN",
+    "Bot",
+    "DDoS",
+    "DoS GoldenEye",
+    "DoS Hulk",
+    "DoS Slowhttptest",
+    "DoS slowloris",
+    "FTP-Patator",
+    "Heartbleed",
+    "Infiltration",
+    "PortScan",
+    "SSH-Patator",
+    "Web Attack \ufffd Brute Force",
+    "Web Attack \ufffd Sql Injection",
+    "Web Attack \ufffd XSS"
+  ],
+  "trained_on": "*.csv"
+}
