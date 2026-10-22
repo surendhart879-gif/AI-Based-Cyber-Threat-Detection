@@ -2,3 +2,10 @@ flask
 pandas
 scikit-learn
 joblib
+flask
+pandas
+scikit-learn
+joblib
+matplotlib
+reportlab
+gunicorn
